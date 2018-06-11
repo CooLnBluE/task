@@ -1,0 +1,12 @@
+c:\users\gökalp\documents\visual studio 2015\Projects\FoursquareChallenge\FoursquareChallenge\obj\Debug\FoursquareChallenge.csprojResolveAssemblyReference.cache
+c:\users\gökalp\documents\visual studio 2015\Projects\FoursquareChallenge\FoursquareChallenge\bin\FoursquareChallenge.dll.config
+c:\users\gökalp\documents\visual studio 2015\Projects\FoursquareChallenge\FoursquareChallenge\bin\FoursquareChallenge.dll
+c:\users\gökalp\documents\visual studio 2015\Projects\FoursquareChallenge\FoursquareChallenge\bin\FoursquareChallenge.pdb
+c:\users\gökalp\documents\visual studio 2015\Projects\FoursquareChallenge\FoursquareChallenge\obj\Debug\FoursquareChallenge.dll
+c:\users\gökalp\documents\visual studio 2015\Projects\FoursquareChallenge\FoursquareChallenge\obj\Debug\FoursquareChallenge.pdb
+C:\Users\Gökalp\Documents\Visual Studio 2015\Projects\FoursquareChallenge\FoursquareChallenge\bin\Entities.dll
+C:\Users\Gökalp\Documents\Visual Studio 2015\Projects\FoursquareChallenge\FoursquareChallenge\bin\FoursquareBusiness.dll
+C:\Users\Gökalp\Documents\Visual Studio 2015\Projects\FoursquareChallenge\FoursquareChallenge\bin\Newtonsoft.Json.dll
+C:\Users\Gökalp\Documents\Visual Studio 2015\Projects\FoursquareChallenge\FoursquareChallenge\bin\Entities.pdb
+C:\Users\Gökalp\Documents\Visual Studio 2015\Projects\FoursquareChallenge\FoursquareChallenge\bin\FoursquareBusiness.pdb
+C:\Users\Gökalp\Documents\Visual Studio 2015\Projects\FoursquareChallenge\FoursquareChallenge\bin\Newtonsoft.Json.xml

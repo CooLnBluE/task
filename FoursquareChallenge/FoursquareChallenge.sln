@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoursquareChallenge", "FoursquareChallenge\FoursquareChallenge.csproj", "{4E3DFDA4-D99D-4FBD-BA63-46E22199F310}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoursquareBusiness", "FoursquareBusiness\FoursquareBusiness.csproj", "{9F85A79B-1AB8-4135-AB4B-F2FCBDBAA146}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{387ED7E2-394A-4DB5-A964-44BA230444F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E3DFDA4-D99D-4FBD-BA63-46E22199F310}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E3DFDA4-D99D-4FBD-BA63-46E22199F310}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E3DFDA4-D99D-4FBD-BA63-46E22199F310}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E3DFDA4-D99D-4FBD-BA63-46E22199F310}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F85A79B-1AB8-4135-AB4B-F2FCBDBAA146}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F85A79B-1AB8-4135-AB4B-F2FCBDBAA146}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F85A79B-1AB8-4135-AB4B-F2FCBDBAA146}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F85A79B-1AB8-4135-AB4B-F2FCBDBAA146}.Release|Any CPU.Build.0 = Release|Any CPU
+		{387ED7E2-394A-4DB5-A964-44BA230444F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{387ED7E2-394A-4DB5-A964-44BA230444F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{387ED7E2-394A-4DB5-A964-44BA230444F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{387ED7E2-394A-4DB5-A964-44BA230444F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

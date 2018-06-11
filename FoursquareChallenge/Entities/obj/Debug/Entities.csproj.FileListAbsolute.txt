@@ -1,0 +1,5 @@
+c:\users\gökalp\documents\visual studio 2015\Projects\FoursquareChallenge\Entities\bin\Debug\Entities.dll
+c:\users\gökalp\documents\visual studio 2015\Projects\FoursquareChallenge\Entities\bin\Debug\Entities.pdb
+c:\users\gökalp\documents\visual studio 2015\Projects\FoursquareChallenge\Entities\obj\Debug\Entities.dll
+c:\users\gökalp\documents\visual studio 2015\Projects\FoursquareChallenge\Entities\obj\Debug\Entities.pdb
+C:\Users\Gökalp\Documents\Visual Studio 2015\Projects\FoursquareChallenge\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
